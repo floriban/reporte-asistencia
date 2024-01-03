@@ -1,0 +1,17 @@
+{
+    "name": "sistemas/asistencia",
+    "autoload": {
+        "psr-4": {
+            "Sistemas\\Asistencia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deddy Ibanez",
+            "email": "floriban@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
